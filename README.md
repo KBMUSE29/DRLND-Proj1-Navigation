@@ -16,5 +16,5 @@ Clone https://github.com/udacity/deep-reinforcement-learning
 2. Clone this repository
 3. Copy all files located in this cloned repository into the following cloned deep-reinforcement-learning local directory "...\deep-reinforcement-learning\p1_navigation"
 4. Unzip "Banana_Windows_x86_64.zip"
-5. Update the file_name= directory on line 2 of section "2. Instantiate the Environment" to point to the local directory of the unzipped "Banana_Windows_x86_64" directory
+5. Update the file_name= directory on line 16 of the second cell beneath the header "4. It's Your Turn!" to point to the local directory of the unzipped "Banana_Windows_x86_64" directory
 6. Execute the code located in Navigation.ipynb after the "4. It's Your Turn!" heading
